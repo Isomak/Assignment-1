@@ -1,5 +1,5 @@
 
-@media screen and (min-height: 1600px) {
+@media screen and (min-height: 760px) {
     .footer{ 
     background-color: #1f1f1f;      /* color change */ 
     text-align: center;      /* fixes how the copyright text looks */ 
