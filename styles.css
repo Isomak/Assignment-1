@@ -53,6 +53,7 @@ body{
 
 .links{
          text-decoration: none;   /* makes sure none of the links have a weird color change. */ 
+         font-size: small;
 }
 
 .links:hover{
