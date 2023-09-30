@@ -1,20 +1,4 @@
 
-@media screen and (min-height: 1600px) {
-    .footer{ 
-    background-color: #1f1f1f;      /* color change */ 
-    text-align: center;      /* fixes how the copyright text looks */ 
-    display: flex;       /* display fixing */ 
-    width: 84%;  /* width of footer */ 
-    padding: 0 8%;  /* adjusts footer padding */ 
-    position: absolute;  /* makes sure the footer is at the bottom of the screen */ 
-    align-items: center;  /* centers */ 
-    justify-content: space-between;  /* makes sure there is a large space in the middle */ 
-    font-size: 100%;  /* font size */ 
-    color:rgb(255, 255, 255);  /* color */ 
-    bottom: 0px;  /* backup footer positioner */ 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-}
 
 @media screen and (min-width: 870px) {
     .navbar{
